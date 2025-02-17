@@ -1,5 +1,3 @@
-Below is an updated README.md for your project that includes your LinkedIn hyperlink. Simply copy the content into your repository’s README.md file:
-
 # Chrome Lead Tracker Extension
 
 This project is a Chrome Extension built to help users track and save leads effectively. It offers a user-friendly interface to manually enter leads or capture the current tab's URL with a single click. Saved leads are displayed as clickable links, and you can delete all leads with a double-click.
